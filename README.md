@@ -1,0 +1,1 @@
+establishing scripts for C
