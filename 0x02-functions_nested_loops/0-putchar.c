@@ -1,6 +1,14 @@
 #include "main.h"
 
-int main()
+/**
+ * main - Entry point
+ *
+ * Description: prints _putchar
+ *
+ * Return: Always 0 (Success)
+*/
+
+int main(void)
 {
 	char str[] = "_putchar";
 	int ch;
