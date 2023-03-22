@@ -1,18 +1,4 @@
-#include "main.h"
-
-int _islower(int c);
-
-int main(void)
-{
-    char c = 'a';
-    
-    if (_islower(c))
-        printf("%c is a lowercase letter\n", c);
-    else
-        printf("%c is not a lowercase letter\n", c);
-
-    return 0;
-}
+#include"main.h"
 
 /**
  * _islower - function to check if
@@ -26,7 +12,7 @@ int main(void)
 
 int _islower(int c)
 {
-    if (c >= 97 && c <= 122)
-        return (1);
-    return (0);
+	if (c >= 97 && c <= 122)
+		return (1);
+	return (0);
 }
