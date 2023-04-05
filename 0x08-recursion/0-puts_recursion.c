@@ -2,8 +2,8 @@
 
 /**
  * Function that print the characters of a string
- * followed by a new line
- * @s - string
+ * _puts_recursion - a function that prints a new line
+ * @s: the string
  * Returns (0)
  */
 
