@@ -1,14 +1,12 @@
 #include "main.h"
 
 /**
- * Function that print the characters of a string
- * 
  * _puts_recursion - a function that prints a new line
  *
  * @s: the string
  *
- * Returns (0)
- */
+ * Return: nothing
+*/
 
 void _puts_recursion(char *s)
 {
