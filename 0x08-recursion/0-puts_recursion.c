@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * Function that print the characters of a string 
- * followed by a new line 
+ * Function that print the characters of a string
+ * followed by a new line
  * @s - string
  * Returns (0)
  */
